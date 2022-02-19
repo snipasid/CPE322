@@ -30,10 +30,11 @@ I pledge my honor that I have abided by the Stevens Honor System.
 ### address
 ![](Pic/address.jpg)
 
+### cpu
 ![](Pic/cpu.jpg)
 
 ### battery
-![](Pic/battery.png)
+![](Pic/battery.jpg)
 
 ### documentstats
 ![](Pic/documentstats.jpg)
