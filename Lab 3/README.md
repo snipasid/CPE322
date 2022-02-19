@@ -30,7 +30,6 @@ I pledge my honor that I have abided by the Stevens Honor System.
 ### address
 ![](Pic/address.jpg)
 
-On my Raspberry Pi
 ![](Pic/cpu.jpg)
 
 ### battery
