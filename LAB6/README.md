@@ -6,7 +6,7 @@ I pledge my honor that I have abided by the Stevens Honor System.
 ![](LAB6/Hello.js.jpg)
 
 ## hello-world.js
-![](LAB6/hello-world.js.jpg)
+![](LAB6/Hello-World.js.jpg)
 
 ## http.js
 ![](LAB6/http_js.jpg)
