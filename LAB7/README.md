@@ -7,6 +7,6 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 
 ### GOOGLESHEETS
-![](LAB7/RPI data.jpg)
+![](LAB7/RPI.jpg)
 
 
